@@ -1,3 +1,4 @@
+![addToCart](https://user-images.githubusercontent.com/79501464/118980045-b6eab480-b996-11eb-99d2-817c0f736cca.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
